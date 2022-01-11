@@ -2,38 +2,38 @@
   "kit": [
     {
       "id": 1,
-      "title": "OrangeBoard"
+      "title":"OrangeBoard"
     },
     {
       "id": 2,
-      "title": "OrangeBoardBLE"
+      "title":"OrangeBoardBLE"
     },
     {
       "id": 3,
-      "title": "OrangeBoardWiFi+"
+      "title":"OrangeBoardWiFi+"
     },
     {
       "id": 4,
-      "title": "kocoafabRCcar"
+      "title":"kocoafabRCcar"
     },
     {
       "id": 5,
-      "title": "SmartHome"
+      "title":"SmartHome"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "Good Morning~!!",
+      "body":"Good Morning~!!",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Apple Banana",
+      "body":"Apple Banana",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "Woo Jonghyun"
+    "name":"Woo Jonghyun"
   }
 }
