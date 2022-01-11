@@ -1,16 +1,24 @@
 {
-  "posts": [
+  "kit": [
     {
       "id": 1,
-      "title": "kocoafab"
-    },
-    {
-      "id": 2,
       "title": "OrangeBoard"
     },
     {
+      "id": 2,
+      "title": "OrangeBoardBLE"
+    },
+    {
       "id": 3,
-      "title": "WiFi+"
+      "title": "OrangeBoardWiFi+"
+    },
+    {
+      "id": 4,
+      "title": "kocoafabRCcar"
+    },
+    {
+      "id": 5,
+      "title": "SmartHome"
     }
   ],
   "comments": [
